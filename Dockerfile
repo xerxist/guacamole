@@ -1,1 +1,1 @@
-FROM docker guacamole/guacamole:latest
+FROM guacamole/guacamole:latest
