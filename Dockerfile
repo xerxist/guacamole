@@ -1,1 +1,1 @@
-FROM docker guacamole/guacamole:latest as builder
+FROM docker guacamole/guacamole:latest
