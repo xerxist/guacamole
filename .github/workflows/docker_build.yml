@@ -1,8 +1,8 @@
 name: 'Build & Push Docker Image for Guacamole'
 
 on:
- schedule:
- - cron: '0 2 * * *'
+  schedule:
+  - cron: '0 0 * * SUN'
 
 jobs:
   build-and-push:
